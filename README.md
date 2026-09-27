@@ -48,3 +48,11 @@ The program's notes ask students to measure with unit squares, and to ask "Topla
   - The rectangle's size over time (`W`, `H`), unit squares (`unit`, `tiles`) and Nokta's poses: `src/draw/film.js`
 
 It uses the same engine as The Learning Ink: `renderFrame(t)` as a pure function of time, seeded randomness, and frame-by-frame export.
+
+## Lisans · License
+
+**TR —** Bu film ve kodu [Creative Commons Atıf-GayriTicari 4.0 Uluslararası (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.tr) lisansıyla paylaşılır. Ticari olmayan her amaçla (derste, okulda, eğitim materyalinde) kopyalayabilir, paylaşabilir ve değiştirebilirsiniz; ancak **kaynak göstermek zorunludur**: eser sahibinin adı ve bu deponun bağlantısı belirtilmeden kullanılamaz. Ticari kullanım (satış, ücretli ürün ya da yayın) için izin alınmalıdır.
+
+**EN —** This film and its code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). You may copy, share and adapt them for non-commercial purposes, but **attribution is required**: they may not be used without crediting the author and linking to this repository. Commercial use requires permission.
+
+Atıf örneği / Required credit: *“Birim Kareler”, Hakan Ataş, Nokta'nın Filmleri — https://github.com/hakanatas/birim-kareler — CC BY-NC 4.0*
